@@ -1,0 +1,4 @@
+[submodule "Wordpress-SDK"]
+	path = Wordpress-SDK
+	url = https://github.com/VenomVendor/Wordpress-SDK.git
+	branch = release/sdk
